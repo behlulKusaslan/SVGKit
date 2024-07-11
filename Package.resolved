@@ -1,0 +1,15 @@
+{
+  "originHash" : "13d9feec523a543ef8972e89d3bc9568f6e75f15c6dd0e1504b29aae8c0db9c8",
+  "pins" : [
+    {
+      "identity" : "cocoalumberjack",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/behlulKusaslan/CocoaLumberjack",
+      "state" : {
+        "branch" : "main",
+        "revision" : "b818bf38e4fe335b329ee5941da017f7905269fc"
+      }
+    }
+  ],
+  "version" : 3
+}
